@@ -13,4 +13,4 @@ This repository contains examples demonstrating the SOLID principles in Kotlin. 
 ## How to Run
 To run the examples, clone this repository and open it in your favorite Kotlin IDE (such as IntelliJ IDEA). You can then execute each example from the main function in the respective Kotlin file.
 
-git clone https://github.com/yourusername/solid-principles-android-kotlin.git
+git clone [https://github.com/yourusername/solid-principles-android-kotlin.git](https://github.com/danielbd9/Solid-Principles-Android-Kotlin.git)
